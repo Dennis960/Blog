@@ -1,0 +1,34 @@
+# Hugo output directory
+/public/
+
+# Hugo cache directory
+/resources/_gen/
+
+# Ignore generated files
+/resources/_gen/*
+
+# Ignore compiled CSS files
+/resources/css/*.css
+
+# Ignore compiled JavaScript files
+/resources/js/*.js
+
+# Ignore compiled HTML files
+/resources/*.html
+
+# Ignore Hugo server logs
+/log/
+
+# Ignore Hugo temporary files
+/resources/_tmp/
+
+# Ignore Hugo generated sitemap
+/sitemap.xml
+
+# Ignore Hugo generated robots.txt
+/robots.txt
+
+# Ignore Hugo generated RSS feeds
+/rss.xml
+
+/themes/*
