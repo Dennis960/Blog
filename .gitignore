@@ -30,5 +30,3 @@
 
 # Ignore Hugo generated RSS feeds
 /rss.xml
-
-/themes/*
