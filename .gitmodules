@@ -1,9 +1,6 @@
-[submodule "hugo-swift-theme"]
-	path = hugo-swift-theme
-	url = https://github.com/onweru/hugo-swift-theme
 [submodule "themes/hugo-swift-theme"]
 	path = themes/hugo-swift-theme
-	url = https://github.com/onweru/hugo-swift-theme.git
-[submodule "themes/terminal"]
-	path = themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal
+	url = https://github.com/Dennis960/hugo-swift-theme
+[submodule "themes/plausible-hugo"]
+	path = themes/plausible-hugo
+	url = https://github.com/divinerites/plausible-hugo
