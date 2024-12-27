@@ -28,9 +28,11 @@ As you may know I am a programmer. I love to code and I love to develop complica
 All in all my plan sounded really nice and I immediately started development.
 
 ### Development
+
 Both the Google Calendar and the Trello app have an API that can be used in python. After some research on Google I used
-![pip commands](/images/pipCalendarTrello.svg)
+![pip commands](/images/DayStructure/pipCalendarTrello.svg)
 With the help of the quick-start tutorial I got my first script up and running and was able to access the calendar linked to my google account. I was worried that I would accidentally destroy my current calendar so I used a different G-Mail address for this project. After a bit of toying around I was able to
+
 - delete all events from the calendar
 - add an event
 - remove a specific event
@@ -39,14 +41,14 @@ With the help of the quick-start tutorial I got my first script up and running a
 - find a spot in between events that would fit another event with a given duration
 
 The last aspect was the most important one. It would give me the ability to fit events in between fixed timestamps. The next thing I had to do was access my Trello lists. I spent multiple hours debugging my script because it just wasn't working when I finally realized where the problem was. I gave my python file the same name as the Trello package and therefore wasn't able to import the Trello python library into my project as the name was already taken. This must have been the dumbest bug I have ever had. After renaming my file everything worked just fine. With a few lines of code I was able to add all todo elements of my list into the Google Calendar without one event crossing with another.
-![example Trello and Calendar](/images/TrelloListExample.png)
+![example Trello and Calendar](/images/DayStructure/TrelloListExample.png)
 I am sorry for the bad image quality but as of writing this text it is already late into the night and I would normally already sleep at this point of time.
 The planning of tasks obviously starts at the current time of the day. It wouldn't make sense to schedule an event at a time that has already passed.
 
 So far my tasks all have a duration of 60 minutes and are scheduled one after another without restrictions. That needs to be fixed in the next step. The next step will include all the logic that is behind my system.
 
 The first functionality I added were tasks that would be repeated every week. They would belong to the fixed task for which you can't change the time. An example would be the online conferences for school. I made a new Trello list for these tasks called "Weekly". Every time I run the script the due dates in Trello will automatically update to the next date from that time. By adding a | to the task title I am able to define how long the task is going to be. Example:  
-*english conference | 120*  
+_english conference | 120_  
 The number is the time in minutes.
 
 <!-- Todo -->

@@ -1,7 +1,7 @@
 ---
 title: "LED with Telegram"
 date: 2021-03-25T09:33:41+01:00
-image: LED-WithTelegram/Thumbnail.jpg
+image: LEDWithTelegram/Thumbnail.jpg
 draft: false
 ---
 
@@ -12,7 +12,7 @@ Always being fascinated by rgb-lights I wanted to have them all over my room. It
 
 Here is (a bad quality) image from the final result:
 
-![Final result rgb-stripes](/images/LED-WithTelegram/FinalResult.jpg)
+![Final result rgb-stripes](/images/LEDWithTelegram/FinalResult.jpg)
 
 Trying to run 5V leds with a Raspberry pi worked surprisingly well. The pi supports 3.3V which is almost half of the needed voltage but it was enough to lighten up the leds. It worked fine but I wasn't happy with the brightness of the light and the white color seemed really yellowish.
 
@@ -27,7 +27,7 @@ The second option was the better one because I only have two or three relays but
 
 I started experimenting with the transistors that I got in my Arduino starter kid and with the bit of knowledge that I still had from previous experiences I was able to build a working circuit:
 
-![Working circuit](/images/LED-WithTelegram/SimpleTransistorTest.jpg)
+![Working circuit](/images/LEDWithTelegram/SimpleTransistorTest.jpg)
 
 In the back was a NPN Pn2222 transistor connected to the led and two power sources. A small resistor was used for the direct LED current and a large resistor for the base current of the transistor.
 With this setup I was facing again two problems:
@@ -36,17 +36,17 @@ With this setup I was facing again two problems:
 2. I had no idea how to scale up this circuit to support multiple LEDs
 
 After trying out a few possibilities I ended up using this one and it worked perfectly:
-![Multiple Transistor 1](/images/LED-WithTelegram/MultipleTransistorTest1.jpg)
-![Multiple Transistor 2](/images/LED-WithTelegram/MultipleTransistorTest2.jpg)
-![Multiple Transistor 3](/images/LED-WithTelegram/MultipleTransistorTest3.jpg)
+![Multiple Transistor 1](/images/LEDWithTelegram/MultipleTransistorTest1.jpg)
+![Multiple Transistor 2](/images/LEDWithTelegram/MultipleTransistorTest2.jpg)
+![Multiple Transistor 3](/images/LEDWithTelegram/MultipleTransistorTest3.jpg)
 
 Switching to Tip120 transistors I connected my circuit to the pi:
 
-![Connection to Pi](/images/LED-WithTelegram/ConnectionToPi.jpg)
+![Connection to Pi](/images/LEDWithTelegram/ConnectionToPi.jpg)
 
 And after scaling up my project for a total of 4 LED stripes it looked like this:
 
-![Connection to Pi Final](/images/LED-WithTelegram/FinalConnectionToPi.jpg)
+![Connection to Pi Final](/images/LEDWithTelegram/FinalConnectionToPi.jpg)
 
 In my setup I use two 12 volts DC power supplies with 3.5 ampere each and a USB 5 volts power supply that controls the other two LED-stripes.
 

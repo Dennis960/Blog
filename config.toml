@@ -1,13 +1,16 @@
 baseURL = "https://dennis960.com/Blog/"
 languageCode = "en-us"
 title = "Blog by Dennis"
-theme = "hugo-swift-theme"
+theme = ["hugo-swift-theme", "plausible-hugo"]
 RelativeURLs = true
 CanonifyURLs = true
 
 [params]
   [params.designer]
     name = "Dennis"
+[params.plausible]
+  enable = true
+  domain = "dennis960.com/blog"
 
 [menu]
   [[menu.main]]
