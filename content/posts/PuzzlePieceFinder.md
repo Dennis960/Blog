@@ -18,7 +18,7 @@ Because every piece of the puzzle looked almost completely the same, I planned o
 The result was a python based puzzle piece finder that actually worked:
 
 Take a piece and scan it:
-![Piece](/images/PuzzlePieceFinder/Piece.bmp)
+![Piece](/images/PuzzlePieceFinder/PieceOriginalColored.png)
 
 After putting the picture into my project folder and running the script:
 ![Output](/images/PuzzlePieceFinder/Output.png)

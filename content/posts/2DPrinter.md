@@ -10,11 +10,11 @@ This time I managed to build a fully functional 2D-Pen-Plotter. Some would call 
 
 In the following video I printed a frog:
 
-![Printer Printing Frog](/images/2DPrinter/PrinterPrintingFrog.mp4)
+{{< video src="/images/2DPrinter/PrinterPrintingFrog.mp4" >}}
 
 And here a Pokémon called Evoli:
 
-![Printer Printing Evoli](/images/2DPrinter/PrinterPrintingEvoli.mp4)
+{{< video src="/images/2DPrinter/PrinterPrintingEvoli.mp4" >}}
 
 This is the construction for the pen holder:
 

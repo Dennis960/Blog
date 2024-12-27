@@ -1,0 +1,6 @@
+<video width="{{ .Get "width" | default "640" }}" 
+       height="{{ .Get "height" | default "360" }}" 
+       controls {{ if .Get "poster" }}poster="{{ .Get "poster" }}"{{ end }}>
+  <source src="{{ .Get "src" }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
