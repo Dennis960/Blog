@@ -8,9 +8,11 @@ CanonifyURLs = true
 [params]
   [params.designer]
     name = "Dennis"
-[params.plausible]
-  enable = true
-  domain = "dennis960.com/blog"
+  [params.plausible]
+    enable = true
+    domain = "dennis960.com/blog"
+    gitstar = false
+    selfhosted_domain = "plausible.paramecad.com"
 
 [menu]
   [[menu.main]]
