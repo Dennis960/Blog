@@ -1,6 +1,6 @@
 ---
 title: "Telegram Api"
-image: 'telegram.svg'
+image: telegram.svg
 date: 2021-03-25T09:43:29+01:00
 draft: false
 ---
@@ -9,8 +9,8 @@ I wanted to be able to send messages from my phone to the Raspberry Pi. The easi
 
 Opening Telegram I had to write to the @BotFather:
 
-![BotFatherImage](/images/TelegramBotApi/BotFather.png)
-![StartCommand](/images/TelegramBotApi/Start.png)
+![BotFatherImage](BotFather.png)
+![StartCommand](Start.png)
 
 After creating a /newBot I received a bot token. With that token I was able to make the api calls and receive messages that were sent to my bot.
 

@@ -24,8 +24,8 @@ We were only organized enough to sort exercises by the date we got them, though 
 
 Here is a picture of what the folder looked like (I had to hide all the personal information):
 
-![Folder Screenshot](/images/IServFilesystemManager/IServFolderUnsorted.png)
-![Folder Screenshot 2](/images/IServFilesystemManager/IServFolderUnsorted2.png)
+![Folder Screenshot](IServFolderUnsorted.png)
+![Folder Screenshot 2](IServFolderUnsorted2.png)
 
 I am German by the way.
 
@@ -342,7 +342,7 @@ Every file that couldn’t be matched to an exercise got the tag unbekannt\_ whi
 
 The resulting filenames looked like this:
 
-![Folder Screenshot 3](/images/IServFilesystemManager/IServFolderSorted.png)
+![Folder Screenshot 3](IServFolderSorted.png)
 
 It is still not perfect, but as good as a human would be able to do it.
 

@@ -3,26 +3,26 @@ title: "DIY 2D Printer with limited assets"
 date: 2022-01-26T00:00:00Z
 draft: false
 author: "Dennis"
-image: 2DPrinter/Printer.jpg
+image: Printer.jpg
 ---
 
 This time I managed to build a fully functional 2D-Pen-Plotter. Some would call it printer. The plotter is 50 cm^2 big and covers a printable area of 250 mm \* 250 mm.
 
 In the following video I printed a frog:
 
-{{< video src="/images/2DPrinter/PrinterPrintingFrog.mp4" >}}
+{{< video src="PrinterPrintingFrog.mp4" >}}
 
 And here a Pokémon called Evoli:
 
-{{< video src="/images/2DPrinter/PrinterPrintingEvoli.mp4" >}}
+{{< video src="PrinterPrintingEvoli.mp4" >}}
 
 This is the construction for the pen holder:
 
-![Pen Holder](/images/2DPrinter/PenHolder.jpg)
+![Pen Holder](PenHolder.jpg)
 
 And here is one of the motors:
 
-![Motor](/images/2DPrinter/Motor.jpg)
+![Motor](Motor.jpg)
 
 The software for controlling the plotter is grbl running on an Arduino Uno and grbl-plotter on my pc, both open-source.
 
@@ -49,4 +49,4 @@ Materials used:
 
 Special thanks to this really old looking piece of software that saved me multiple hours of programming :)
 
-![grbl-plotter](/images/2DPrinter/GRBL-Plotter.png)
+![grbl-plotter](GRBL-Plotter.png)

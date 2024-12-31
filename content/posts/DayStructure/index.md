@@ -30,7 +30,7 @@ All in all my plan sounded really nice and I immediately started development.
 ### Development
 
 Both the Google Calendar and the Trello app have an API that can be used in python. After some research on Google I used
-![pip commands](/images/DayStructure/pipCalendarTrello.svg)
+![pip commands](pipCalendarTrello.svg)
 With the help of the quick-start tutorial I got my first script up and running and was able to access the calendar linked to my google account. I was worried that I would accidentally destroy my current calendar so I used a different G-Mail address for this project. After a bit of toying around I was able to
 
 - delete all events from the calendar
@@ -41,7 +41,7 @@ With the help of the quick-start tutorial I got my first script up and running a
 - find a spot in between events that would fit another event with a given duration
 
 The last aspect was the most important one. It would give me the ability to fit events in between fixed timestamps. The next thing I had to do was access my Trello lists. I spent multiple hours debugging my script because it just wasn't working when I finally realized where the problem was. I gave my python file the same name as the Trello package and therefore wasn't able to import the Trello python library into my project as the name was already taken. This must have been the dumbest bug I have ever had. After renaming my file everything worked just fine. With a few lines of code I was able to add all todo elements of my list into the Google Calendar without one event crossing with another.
-![example Trello and Calendar](/images/DayStructure/TrelloListExample.png)
+![example Trello and Calendar](TrelloListExample.png)
 I am sorry for the bad image quality but as of writing this text it is already late into the night and I would normally already sleep at this point of time.
 The planning of tasks obviously starts at the current time of the day. It wouldn't make sense to schedule an event at a time that has already passed.
 

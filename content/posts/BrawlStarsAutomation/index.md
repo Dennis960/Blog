@@ -462,15 +462,15 @@ The screenshotCutter takes the screenshot of the map and removes everything arou
 
 First the original screenshot:
 
-![Original Screenshot](/images/BrawlStarsAutomation/download.jpeg)
+![Original Screenshot](download.jpeg)
 
 I then find the border of the map:
 
-![Border of the map](/images/BrawlStarsAutomation/downloadCuttedScreenshot_debug.png)
+![Border of the map](downloadCuttedScreenshot_debug.png)
 
 And then I cut out the map and save it:
 
-![Map](/images/BrawlStarsAutomation/downloadCuttedScreenshot.png)
+![Map](downloadCuttedScreenshot.png)
 
 ```python
 import numpy as np

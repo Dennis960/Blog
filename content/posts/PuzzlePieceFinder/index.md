@@ -3,13 +3,13 @@ title: "Puzzle Piece Finder"
 date: 2022-01-04T00:00:00Z
 draft: false
 author: "Dennis"
-image: PuzzlePieceFinder/FindingLargestRectangle/BInnerRectanlge.png
+image: FindingLargestRectangle/BInnerRectangle.png
 ---
 
 There was this puzzle that had belonged to me for over a year now.
 
 The following was its image:
-![Puzzle](/images/PuzzlePieceFinder/Puzzle.png)
+![Puzzle](Puzzle.png)
 
 I scanned the image with my scanner. It didn’t quite fit into the scanner though because the box the image was printed onto was too big. That is why the image is blurred on the picture.
 
@@ -18,10 +18,10 @@ Because every piece of the puzzle looked almost completely the same, I planned o
 The result was a python based puzzle piece finder that actually worked:
 
 Take a piece and scan it:
-![Piece](/images/PuzzlePieceFinder/PieceOriginalColored.png)
+![Piece](PieceOriginalColored.png)
 
 After putting the picture into my project folder and running the script:
-![Output](/images/PuzzlePieceFinder/Output.png)
+![Output](Output.png)
 
 The green rectangle shows the position where the piece would best fit based on its texture.
 
@@ -34,7 +34,7 @@ piece_original_colored = cv2.imread(filepath)
 ```
 
 The black border around the piece is only a small problem that can be fixed by cropping the image:
-![Piece original](/images/PuzzlePieceFinder/OriginalCropped.png)
+![Piece original](OriginalCropped.png)
 
 ```python
 piece_original_colored = piece_original_colored[25:920, 25:920]
@@ -129,7 +129,7 @@ piece_marked = cv2.merge(result_norm_planes)
 
 This part of my code is copied from Stack Overflow, so I am not sure what it does exactly.
 
-![Piece shadows removed](/images/PuzzlePieceFinder/PieceRemovedShadows.png)
+![Piece shadows removed](PieceRemovedShadows.png)
 
 The next step was to find the parts of the image that actually contain the puzzle piece. First I subdivided the image into a grid:
 
@@ -143,7 +143,7 @@ for x in range(step_size, width-step_size, step_size):
     grid.append(column)
 ```
 
-![Piece grid](/images/PuzzlePieceFinder/Grid.png)
+![Piece grid](Grid.png)
 
 I defined a method that checks whether a cell contains a piece or not based on, again, its saturation values:
 
@@ -229,7 +229,7 @@ for column in range(1, len(grid)-1):
             cv2.rectangle(piece_marked, (x-step_size, y-step_size), (x+step_size, y+step_size), (0, 0, 0), -1)
 ```
 
-![Piece Marked](/images/PuzzlePieceFinder/PieceMarked.png)
+![Piece Marked](PieceMarked.png)
 
 The task now was to find a big rectangle inside the piece that I could feed to the template matching algorithm.
 
@@ -280,7 +280,7 @@ for right in range(width-1, left, -step_size):
 center = (int((left+right)/2), int((top+bottom)/2))
 ```
 
-![Piece smallest surrounding](/images/PuzzlePieceFinder/SurroundingRectangle.png)
+![Piece smallest surrounding](SurroundingRectangle.png)
 
 As of writing this post, I realize that this step is completely unnecessary after already cropping the piece.
 
@@ -367,8 +367,8 @@ for inner_right in range(center[0] + radius, right , step_size):
     break
 ```
 
-![Piece largest rectangle](/images/PuzzlePieceFinder/FindingLargestRectangle/AInnerSquare.png)
-![Piece largest rectangle](/images/PuzzlePieceFinder/FindingLargestRectangle/BInnerRectangle.png)
+![Piece largest rectangle](FindingLargestRectangle/AInnerSquare.png)
+![Piece largest rectangle](FindingLargestRectangle/BInnerRectangle.png)
 
 Next step was to resize the image to the same size it would have in the picture of the puzzle. In my case, 40% would do the trick:
 
@@ -389,7 +389,7 @@ def resize_image(img, scale_percent):
 image = resize_image(image, 0.4)
 ```
 
-![Piece cropped](/images/PuzzlePieceFinder/CroppedPiece.png)
+![Piece cropped](CroppedPiece.png)
 
 Because of the blur in the original picture, the scanned piece would also need some blur to make the template matching work better:
 
@@ -411,7 +411,7 @@ def motion_blur_image(img):
     return blurred
 ```
 
-![Piece blurred](/images/PuzzlePieceFinder/Blurred.png)
+![Piece blurred](Blurred.png)
 
 The last step in my project was to do some template matching for every of the 4 90° rotations of the piece:
 
@@ -504,7 +504,7 @@ I again used multiprocessing to speed up the entire process from a minute to abo
 
 The result was markings on the puzzle image for the best matching spots for every rotation of the piece:
 
-![Output](/images/PuzzlePieceFinder/Output.png)
+![Output](Output.png)
 
 As you can see, my algorithm worked and found the correct spot for the piece in the bottom left corner.
 

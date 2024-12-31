@@ -1,22 +1,22 @@
 ---
 title: "QR Code - How to decode a QR Code"
 date: 2021-03-02T18:03:26+01:00
-image: QRCode/Entire.svg
+image: Entire.svg
 draft: false
 ---
 ### This time I learnt how to decode a QR-Code
 
 First you need a QR-Code:
-![CodeExample](/images/QRCode/CodeExample.svg)
+![CodeExample](CodeExample.svg)
 
 This area is used for the camera to identify the bounds and rotation as well as some error stuff:
-![OrientationAndFormatting](/images/QRCode/OrientationAndFormatting.svg)
+![OrientationAndFormatting](OrientationAndFormatting.svg)
 Then you need to determine the mask pattern from the red marked pixels and invert every pixel at a black position. In this case the mask is a checkerboard pattern. You can look up different masks at the [Wikipedia](https://en.wikipedia.org/wiki/QR_code).
-![Mask](/images/QRCode/Mask.svg)
+![Mask](Mask.svg)
 It should look like this afterwards:
-![CodeRaw](/images/QRCode/CodeRaw.svg)
+![CodeRaw](CodeRaw.svg)
 The data is encoded in 8-Bit chunks starting with a 4-Bit chunk in the lower right corner. The corner tells the way of encoding, in this case it is binary. The first Byte tells how long the message is. Afterwards the Bytes follow which can be decoded.
-![Data](/images/QRCode/Data.svg)
+![Data](Data.svg)
 In this case it should be:
 
 0100 00011100
@@ -31,6 +31,6 @@ This binary sequence can be decoded:
 104 116 116 112 115 58 47 47 121 111 117 116 117 46 98 101 47 100 81 119 52 119 57 87 103 88 99 81
 
 Further decoding can happen by using an Ascii-Table.
-![Entire](/images/QRCode/Entire.svg)
+![Entire](Entire.svg)
 
 For a more detailed instruction on the different steps, read [this](https://en.wikipedia.org/wiki/QR_code) Wikipedia article.
