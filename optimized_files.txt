@@ -1,0 +1,218 @@
+content/About/Feather.jpg
+content/Contact/Feather.jpg
+content/posts/LEDTetris/IMG-20210525-WA0000.jpg
+content/posts/LEDTetris/CardboardPrototypeOnTetrisBlock.jpg
+content/posts/LEDTetris/IMG-20210524-WA0000.jpg
+content/posts/LEDTetris/TetrisThumbnail.jpg
+content/posts/LEDTetris/CardboardPrototype.jpg
+content/posts/LEDTetris/Snapchat-721570357.jpg
+content/posts/LEDTetris/Snapchat-265261629.jpg
+content/posts/LEDTetris/Snapchat-333193565.jpg
+content/posts/LEDTetris/AllTetrisBlocksCut.jpg
+content/posts/LEDTetris/IMG_20210525_160009.jpg
+content/posts/LEDTetris/IMG-20210525-WA0002.jpg
+content/posts/LEDTetris/SandedTetrisBlockSide.jpg
+content/posts/LEDTetris/TetrisBlocks.jpg
+content/posts/LEDTetris/IMG-20210516-WA0017.jpg
+content/posts/LEDTetris/TetrisLamp.jpg
+content/posts/LEDTetris/IMG_20210516_150421875.jpg
+content/posts/LEDTetris/Snapchat-781587365.jpg
+content/posts/LEDTetris/SandingTetrisBlock.jpg
+content/posts/LEDTetris/UnsandedTetrisBlockSide.jpg
+content/posts/LEDTetris/SingleLEDs.jpg
+content/posts/LEDTetris/IMG_20210525_155935.jpg
+content/posts/LEDTetris/LEDMatrixBlue.jpg
+content/posts/LEDTetris/TetrisLampPixelsBlurred.jpg
+content/posts/LEDTetris/SolderedLEDsOnWood.jpg
+content/posts/LEDTetris/IMG-20210516-WA0020.jpg
+content/posts/IServFilesystemManager/IServFolderSorted.png
+content/posts/IServFilesystemManager/IServFolderUnsorted.png
+content/posts/IServFilesystemManager/IServFolderUnsorted2.png
+content/posts/TelegramApi/Start.png
+content/posts/TelegramApi/BotFather.png
+content/posts/SolarPlantsDashboard/KindleDashboard.png
+content/posts/SolarPlantsDashboard/Dashboard.png
+content/posts/SolarPlantsDashboard/DashboardParameters.png
+content/posts/AcrylicPouring/AcrylicPouring (4).jpg
+content/posts/AcrylicPouring/AcrylicPouring (3).jpg
+content/posts/AcrylicPouring/AcrylicPouring (6).jpg
+content/posts/AcrylicPouring/AcrylicPouring (5).jpg
+content/posts/AcrylicPouring/AcrylicPouring (2).jpg
+content/posts/AcrylicPouring/AcrylicPouring (1).jpg
+content/posts/HoppingAdventure/HoppingAdventure.webp
+content/posts/DayStructure/overthinkingPerson.jpg
+content/posts/DayStructure/TrelloListExample.png
+content/posts/LEDWithTelegram/SimpleTransistorTest.jpg
+content/posts/LEDWithTelegram/Thumbnail.jpg
+content/posts/LEDWithTelegram/FinalResult.jpg
+content/posts/LEDWithTelegram/MultipleTransistorTest3.jpg
+content/posts/LEDWithTelegram/MultipleTransistorTest1.jpg
+content/posts/LEDWithTelegram/MultipleTransistorTest2.jpg
+content/posts/LEDWithTelegram/FinalConnectionToPi.jpg
+content/posts/LEDWithTelegram/ConnectionToPi.jpg
+content/posts/EventDatabaseProject/Documentation.png
+content/posts/EventDatabaseProject/EventsExample.png
+content/posts/EventDatabaseProject/ChartJs.png
+content/posts/QR-Code/Mask.png
+content/posts/QR-Code/Entire.png
+content/posts/QR-Code/CodeRaw.png
+content/posts/QR-Code/CodeExample.png
+content/posts/QR-Code/OrientationAndFormatting.png
+content/posts/QR-Code/Data.png
+content/posts/FiberLedTable/PCB-Version1.jpeg
+content/posts/FiberLedTable/Thumbnail.jpg
+content/posts/FiberLedTable/PCB-Version2.png
+content/posts/FiberLedTable/BlackEpoxyLayer1.jpg
+content/posts/FiberLedTable/BlackEpoxyLayer2.jpg
+content/posts/FiberLedTable/ConnectSensors.jpg
+content/posts/FiberLedTable/PuttingInFibers.jpg
+content/posts/FiberLedTable/TableFrame.jpg
+content/posts/FiberLedTable/ClipFibers.jpg
+content/posts/2DPrinter/Printer.jpg
+content/posts/2DPrinter/PenHolder.jpg
+content/posts/2DPrinter/Motor.jpg
+content/posts/2DPrinter/GRBL-Plotter.png
+content/posts/PuzzlePieceFinder/OriginalCropped.png
+content/posts/PuzzlePieceFinder/Puzzle.png
+content/posts/PuzzlePieceFinder/SurroundingRectangle.png
+content/posts/PuzzlePieceFinder/CroppedPiece.png
+content/posts/PuzzlePieceFinder/PieceRemovedShadows.png
+content/posts/PuzzlePieceFinder/PieceMarked.png
+content/posts/PuzzlePieceFinder/Grid.png
+content/posts/PuzzlePieceFinder/Blurred.png
+content/posts/PuzzlePieceFinder/Output.png
+content/posts/PuzzlePieceFinder/PieceOriginalColored.png
+content/posts/PuzzlePieceFinder/FindingLargestRectangle/AInnerSquare.png
+content/posts/PuzzlePieceFinder/FindingLargestRectangle/BInnerRectangle.png
+content/posts/CmdTestDiskSpeed/Hard-Drive.jpg
+content/posts/WvSStundenplan/WvSStundenplanCode.png
+content/posts/WvSStundenplan/WvSStundenplanDarkLight.png
+content/posts/WvSStundenplan/WvS-Stundenplan-Thumbnail.png
+content/posts/MagicCubeCollection/MagicCube (6).jpg
+content/posts/MagicCubeCollection/MagicCube (10).jpg
+content/posts/MagicCubeCollection/MagicCube (8).jpg
+content/posts/MagicCubeCollection/MagicCube (1).jpg
+content/posts/MagicCubeCollection/MagicCube (13).jpg
+content/posts/MagicCubeCollection/MagicCube (12).jpg
+content/posts/MagicCubeCollection/MagicCube (7).jpg
+content/posts/MagicCubeCollection/MagicCube (5).jpg
+content/posts/MagicCubeCollection/MagicCube (11).jpg
+content/posts/MagicCubeCollection/MagicCube (4).jpg
+content/posts/MagicCubeCollection/MagicCube (3).jpg
+content/posts/MagicCubeCollection/MagicCube (2).jpg
+content/posts/MagicCubeCollection/MagicCube (9).jpg
+content/posts/BrawlStarsAutomation/cuttedScreenshot_debug.png
+content/posts/BrawlStarsAutomation/cuttedScreenshot.png
+content/posts/BrawlStarsAutomation/Robot.png
+content/posts/BrawlStarsAutomation/downloadCuttedScreenshot.png
+content/posts/BrawlStarsAutomation/download.jpeg
+content/posts/BrawlStarsAutomation/downloadCuttedScreenshot_debug.png
+content/posts/CoronaInzidenz/CoronaInzidenzThumbnail.jpg
+content/posts/LEDTetris/VID-20210524-WA0014.mp4
+content/posts/LEDTetris/VID-20210524-WA0012.mp4
+content/posts/LEDTetris/SingleLEDsOnCardboardTestNoSound.mp4
+content/posts/LEDTetris/VID-20210719-WA0005.mp4
+content/posts/LEDTetris/SingleLEDsOnCardboardTest.mp4
+content/posts/LEDTetris/FinishedTetrisGame.mp4
+content/posts/LEDTetris/VID-20210523-WA0004.mp4
+content/posts/LEDTetris/LED-StripeTestNoSound.mp4
+content/posts/LEDTetris/VID_20210719_171923836.mp4
+content/posts/LEDTetris/Snapchat-1228261277.mp4
+content/posts/LEDTetris/Snapchat-1430247987.mp4
+content/posts/LEDTetris/FinishedLEDBoardNoSound.mp4
+content/posts/LEDTetris/Snapchat-225959850.mp4
+content/posts/LEDTetris/Snapchat-46142555.mp4
+content/posts/LEDTetris/VID-20210521-WA0006.mp4
+content/posts/LEDTetris/Snapchat-184554596.mp4
+content/posts/LEDTetris/ControllerWithWires.mp4
+content/posts/LEDTetris/FinishedLEDBoard.mp4
+content/posts/LEDTetris/ControllerConnectedToArduino.mp4
+content/posts/LEDTetris/LED-StripeTest.mp4
+content/posts/HoppingAdventure/HoppingAdventureBug.mp4
+content/posts/FiberLedTable/SandingTable.mp4
+content/posts/FiberLedTable/PrototypeWood.mp4
+content/posts/FiberLedTable/PrototypePolystyrene.mp4
+content/posts/FiberLedTable/SecondTable.mp4
+content/posts/FiberLedTable/PCB-Version3-Test-Multiple.mp4
+content/posts/FiberLedTable/PCB-Version2-Test.mp4
+content/posts/FiberLedTable/DrillingHoles.mp4
+content/posts/FiberLedTable/PCB-Version1-Test.mp4
+content/posts/FiberLedTable/ViralVideo.mp4
+content/posts/FiberLedTable/FinishedTable.mp4
+content/posts/2DPrinter/PrinterPrintingEvoli.mp4
+content/posts/2DPrinter/PrinterPrintingFrog.mp4
+content/About/Feather.jpg
+content/Contact/Feather.jpg
+content/posts/LEDTetris/IMG-20210525-WA0000.jpg
+content/posts/LEDTetris/CardboardPrototypeOnTetrisBlock.jpg
+content/posts/LEDTetris/IMG-20210524-WA0000.jpg
+content/posts/LEDTetris/TetrisThumbnail.jpg
+content/posts/LEDTetris/CardboardPrototype.jpg
+content/posts/LEDTetris/Snapchat-721570357.jpg
+content/posts/LEDTetris/Snapchat-265261629.jpg
+content/posts/LEDTetris/Snapchat-333193565.jpg
+content/posts/LEDTetris/AllTetrisBlocksCut.jpg
+content/posts/LEDTetris/IMG_20210525_160009.jpg
+content/posts/LEDTetris/IMG-20210525-WA0002.jpg
+content/posts/LEDTetris/SandedTetrisBlockSide.jpg
+content/posts/LEDTetris/TetrisBlocks.jpg
+content/posts/LEDTetris/IMG-20210516-WA0017.jpg
+content/posts/LEDTetris/TetrisLamp.jpg
+content/posts/LEDTetris/IMG_20210516_150421875.jpg
+content/posts/LEDTetris/Snapchat-781587365.jpg
+content/posts/LEDTetris/SandingTetrisBlock.jpg
+content/posts/LEDTetris/UnsandedTetrisBlockSide.jpg
+content/posts/LEDTetris/SingleLEDs.jpg
+content/posts/LEDTetris/IMG_20210525_155935.jpg
+content/posts/LEDTetris/LEDMatrixBlue.jpg
+content/posts/LEDTetris/TetrisLampPixelsBlurred.jpg
+content/posts/LEDTetris/SolderedLEDsOnWood.jpg
+content/posts/LEDTetris/IMG-20210516-WA0020.jpg
+content/posts/IServFilesystemManager/IServFolderSorted.png
+content/posts/IServFilesystemManager/IServFolderUnsorted.png
+content/posts/IServFilesystemManager/IServFolderUnsorted2.png
+content/posts/TelegramApi/Start.png
+content/posts/TelegramApi/BotFather.png
+content/posts/SolarPlantsDashboard/KindleDashboard.png
+content/posts/SolarPlantsDashboard/Dashboard.png
+content/posts/SolarPlantsDashboard/DashboardParameters.png
+content/posts/AcrylicPouring/AcrylicPouring (4).jpg
+content/posts/AcrylicPouring/AcrylicPouring (3).jpg
+content/posts/AcrylicPouring/AcrylicPouring (6).jpg
+content/posts/AcrylicPouring/AcrylicPouring (5).jpg
+content/posts/AcrylicPouring/AcrylicPouring (2).jpg
+content/posts/AcrylicPouring/AcrylicPouring (1).jpg
+content/posts/HoppingAdventure/HoppingAdventure.webp
+content/posts/DayStructure/overthinkingPerson.jpg
+content/posts/DayStructure/TrelloListExample.png
+content/posts/LEDWithTelegram/SimpleTransistorTest.jpg
+content/posts/LEDWithTelegram/Thumbnail.jpg
+content/posts/LEDWithTelegram/FinalResult.jpg
+content/posts/LEDWithTelegram/MultipleTransistorTest3.jpg
+content/posts/LEDWithTelegram/MultipleTransistorTest1.jpg
+content/posts/LEDWithTelegram/MultipleTransistorTest2.jpg
+content/posts/LEDWithTelegram/FinalConnectionToPi.jpg
+content/posts/LEDWithTelegram/ConnectionToPi.jpg
+content/posts/EventDatabaseProject/Documentation.png
+content/posts/EventDatabaseProject/EventsExample.png
+content/posts/EventDatabaseProject/ChartJs.png
+content/posts/QR-Code/Mask.png
+content/posts/QR-Code/Entire.png
+content/posts/QR-Code/CodeRaw.png
+content/posts/QR-Code/CodeExample.png
+content/posts/QR-Code/OrientationAndFormatting.png
+content/posts/QR-Code/Data.png
+content/posts/FiberLedTable/PCB-Version1.jpeg
+content/posts/FiberLedTable/Thumbnail.jpg
+content/posts/FiberLedTable/PCB-Version2.png
+content/posts/FiberLedTable/BlackEpoxyLayer1.jpg
+content/posts/FiberLedTable/BlackEpoxyLayer2.jpg
+content/posts/FiberLedTable/ConnectSensors.jpg
+content/posts/FiberLedTable/PuttingInFibers.jpg
+content/posts/FiberLedTable/TableFrame.jpg
+content/posts/FiberLedTable/ClipFibers.jpg
+content/posts/2DPrinter/Printer.jpg
+content/posts/2DPrinter/PenHolder.jpg
+content/posts/2DPrinter/Motor.jpg
+content/posts/2DPrinter/GRBL-Plotter.png
+content/posts/PuzzlePieceFinder/OriginalCropped.png

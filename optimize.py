@@ -80,7 +80,7 @@ def optimize_images(folder_path):
 
 
 if __name__ == "__main__":
-    folder = "."
+    folder = "content"
     if os.path.isdir(folder):
         optimize_images(folder)
         print("Image optimization completed.")
