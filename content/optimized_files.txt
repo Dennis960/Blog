@@ -1,0 +1,143 @@
+./About/Feather.jpg
+./Contact/Feather.jpg
+./posts/LEDTetris/IMG-20210525-WA0000.jpg
+./posts/LEDTetris/CardboardPrototypeOnTetrisBlock.jpg
+./posts/LEDTetris/IMG-20210524-WA0000.jpg
+./posts/LEDTetris/TetrisThumbnail.jpg
+./posts/LEDTetris/CardboardPrototype.jpg
+./posts/LEDTetris/Snapchat-721570357.jpg
+./posts/LEDTetris/Snapchat-265261629.jpg
+./posts/LEDTetris/Snapchat-333193565.jpg
+./posts/LEDTetris/AllTetrisBlocksCut.jpg
+./posts/LEDTetris/IMG_20210525_160009.jpg
+./posts/LEDTetris/IMG-20210525-WA0002.jpg
+./posts/LEDTetris/SandedTetrisBlockSide.jpg
+./posts/LEDTetris/TetrisBlocks.jpg
+./posts/LEDTetris/IMG-20210516-WA0017.jpg
+./posts/LEDTetris/TetrisLamp.jpg
+./posts/LEDTetris/IMG_20210516_150421875.jpg
+./posts/LEDTetris/Snapchat-781587365.jpg
+./posts/LEDTetris/SandingTetrisBlock.jpg
+./posts/LEDTetris/UnsandedTetrisBlockSide.jpg
+./posts/LEDTetris/SingleLEDs.jpg
+./posts/LEDTetris/IMG_20210525_155935.jpg
+./posts/LEDTetris/LEDMatrixBlue.jpg
+./posts/LEDTetris/TetrisLampPixelsBlurred.jpg
+./posts/LEDTetris/SolderedLEDsOnWood.jpg
+./posts/LEDTetris/IMG-20210516-WA0020.jpg
+./posts/IServFilesystemManager/IServFolderSorted.png
+./posts/IServFilesystemManager/IServFolderUnsorted.png
+./posts/IServFilesystemManager/IServFolderUnsorted2.png
+./posts/TelegramApi/Start.png
+./posts/TelegramApi/BotFather.png
+./posts/SolarPlantsDashboard/KindleDashboard.png
+./posts/SolarPlantsDashboard/Dashboard.png
+./posts/SolarPlantsDashboard/DashboardParameters.png
+./posts/AcrylicPouring/AcrylicPouring (4).jpg
+./posts/AcrylicPouring/AcrylicPouring (3).jpg
+./posts/AcrylicPouring/AcrylicPouring (6).jpg
+./posts/AcrylicPouring/AcrylicPouring (5).jpg
+./posts/AcrylicPouring/AcrylicPouring (2).jpg
+./posts/AcrylicPouring/AcrylicPouring (1).jpg
+./posts/HoppingAdventure/HoppingAdventure.webp
+./posts/DayStructure/overthinkingPerson.jpg
+./posts/DayStructure/TrelloListExample.png
+./posts/LEDWithTelegram/SimpleTransistorTest.jpg
+./posts/LEDWithTelegram/Thumbnail.jpg
+./posts/LEDWithTelegram/FinalResult.jpg
+./posts/LEDWithTelegram/MultipleTransistorTest3.jpg
+./posts/LEDWithTelegram/MultipleTransistorTest1.jpg
+./posts/LEDWithTelegram/MultipleTransistorTest2.jpg
+./posts/LEDWithTelegram/FinalConnectionToPi.jpg
+./posts/LEDWithTelegram/ConnectionToPi.jpg
+./posts/EventDatabaseProject/Documentation.png
+./posts/EventDatabaseProject/EventsExample.png
+./posts/EventDatabaseProject/ChartJs.png
+./posts/QR-Code/Mask.png
+./posts/QR-Code/Entire.png
+./posts/QR-Code/CodeRaw.png
+./posts/QR-Code/CodeExample.png
+./posts/QR-Code/OrientationAndFormatting.png
+./posts/QR-Code/Data.png
+./posts/FiberLedTable/PCB-Version1.jpeg
+./posts/FiberLedTable/Thumbnail.jpg
+./posts/FiberLedTable/PCB-Version2.png
+./posts/FiberLedTable/BlackEpoxyLayer1.jpg
+./posts/FiberLedTable/BlackEpoxyLayer2.jpg
+./posts/FiberLedTable/ConnectSensors.jpg
+./posts/FiberLedTable/PuttingInFibers.jpg
+./posts/FiberLedTable/TableFrame.jpg
+./posts/FiberLedTable/ClipFibers.jpg
+./posts/2DPrinter/Printer.jpg
+./posts/2DPrinter/PenHolder.jpg
+./posts/2DPrinter/Motor.jpg
+./posts/2DPrinter/GRBL-Plotter.png
+./posts/PuzzlePieceFinder/OriginalCropped.png
+./posts/PuzzlePieceFinder/Puzzle.png
+./posts/PuzzlePieceFinder/SurroundingRectangle.png
+./posts/PuzzlePieceFinder/CroppedPiece.png
+./posts/PuzzlePieceFinder/PieceRemovedShadows.png
+./posts/PuzzlePieceFinder/PieceMarked.png
+./posts/PuzzlePieceFinder/Grid.png
+./posts/PuzzlePieceFinder/Blurred.png
+./posts/PuzzlePieceFinder/Output.png
+./posts/PuzzlePieceFinder/PieceOriginalColored.png
+./posts/PuzzlePieceFinder/FindingLargestRectangle/AInnerSquare.png
+./posts/PuzzlePieceFinder/FindingLargestRectangle/BInnerRectangle.png
+./posts/CmdTestDiskSpeed/Hard-Drive.jpg
+./posts/WvSStundenplan/WvSStundenplanCode.png
+./posts/WvSStundenplan/WvSStundenplanDarkLight.png
+./posts/WvSStundenplan/WvS-Stundenplan-Thumbnail.png
+./posts/MagicCubeCollection/MagicCube (6).jpg
+./posts/MagicCubeCollection/MagicCube (10).jpg
+./posts/MagicCubeCollection/MagicCube (8).jpg
+./posts/MagicCubeCollection/MagicCube (1).jpg
+./posts/MagicCubeCollection/MagicCube (13).jpg
+./posts/MagicCubeCollection/MagicCube (12).jpg
+./posts/MagicCubeCollection/MagicCube (7).jpg
+./posts/MagicCubeCollection/MagicCube (5).jpg
+./posts/MagicCubeCollection/MagicCube (11).jpg
+./posts/MagicCubeCollection/MagicCube (4).jpg
+./posts/MagicCubeCollection/MagicCube (3).jpg
+./posts/MagicCubeCollection/MagicCube (2).jpg
+./posts/MagicCubeCollection/MagicCube (9).jpg
+./posts/BrawlStarsAutomation/cuttedScreenshot_debug.png
+./posts/BrawlStarsAutomation/cuttedScreenshot.png
+./posts/BrawlStarsAutomation/Robot.png
+./posts/BrawlStarsAutomation/downloadCuttedScreenshot.png
+./posts/BrawlStarsAutomation/download.jpeg
+./posts/BrawlStarsAutomation/downloadCuttedScreenshot_debug.png
+./posts/CoronaInzidenz/CoronaInzidenzThumbnail.jpg
+./posts/LEDTetris/VID-20210524-WA0014.mp4
+./posts/LEDTetris/VID-20210524-WA0012.mp4
+./posts/LEDTetris/SingleLEDsOnCardboardTestNoSound.mp4
+./posts/LEDTetris/VID-20210719-WA0005.mp4
+./posts/LEDTetris/SingleLEDsOnCardboardTest.mp4
+./posts/LEDTetris/FinishedTetrisGame.mp4
+./posts/LEDTetris/VID-20210523-WA0004.mp4
+./posts/LEDTetris/LED-StripeTestNoSound.mp4
+./posts/LEDTetris/VID_20210719_171923836.mp4
+./posts/LEDTetris/Snapchat-1228261277.mp4
+./posts/LEDTetris/Snapchat-1430247987.mp4
+./posts/LEDTetris/FinishedLEDBoardNoSound.mp4
+./posts/LEDTetris/Snapchat-225959850.mp4
+./posts/LEDTetris/Snapchat-46142555.mp4
+./posts/LEDTetris/VID-20210521-WA0006.mp4
+./posts/LEDTetris/Snapchat-184554596.mp4
+./posts/LEDTetris/ControllerWithWires.mp4
+./posts/LEDTetris/FinishedLEDBoard.mp4
+./posts/LEDTetris/ControllerConnectedToArduino.mp4
+./posts/LEDTetris/LED-StripeTest.mp4
+./posts/HoppingAdventure/HoppingAdventureBug.mp4
+./posts/FiberLedTable/SandingTable.mp4
+./posts/FiberLedTable/PrototypeWood.mp4
+./posts/FiberLedTable/PrototypePolystyrene.mp4
+./posts/FiberLedTable/SecondTable.mp4
+./posts/FiberLedTable/PCB-Version3-Test-Multiple.mp4
+./posts/FiberLedTable/PCB-Version2-Test.mp4
+./posts/FiberLedTable/DrillingHoles.mp4
+./posts/FiberLedTable/PCB-Version1-Test.mp4
+./posts/FiberLedTable/ViralVideo.mp4
+./posts/FiberLedTable/FinishedTable.mp4
+./posts/2DPrinter/PrinterPrintingEvoli.mp4
+./posts/2DPrinter/PrinterPrintingFrog.mp4
