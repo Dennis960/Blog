@@ -2,6 +2,7 @@
 title: "IServ Filename Manager"
 date: 2021-08-08
 author: "Dennis"
+image: IServFolderUnsorted.png
 tags: ["Script", "API"]
 description: Automatically renaming and sorting files uploaded to IServ.
 ---
