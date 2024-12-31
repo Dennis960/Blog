@@ -2,7 +2,8 @@
 title: "Day Structure Project"
 date: 2021-02-26T22:33:54+01:00
 image: overthinkingPerson.jpg
-draft: false
+tags: ["Mobile App", "API"]
+description: Automating the planning of my day with the help of Google Calendar and Trello.
 ---
 
 Planning my day was one of the most difficult tasks for me. It was the same problem almost every day. I only get out of bed very late and by the time I do I have already missed the time to eat breakfast. In the morning I spent most of my time scrolling through Instagram, YouTube or watching Netflix. The worst part about that wasn't even the amount of time I wasted by doing absolutely nothing but rather the uncomfortable position in which I was sitting in my bed. Only a few minutes in and my back was already hurting but I was just too lazy to stand up and get ready for the day.

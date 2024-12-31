@@ -2,7 +2,8 @@
 title: "WvS Stundenplan"
 date: 2020-09-12T21:52:17+01:00
 image: WvS-Stundenplan-Thumbnail.png
-draft: false
+tags: ["Mobile App"]
+description: An app that notifies the user about specific stand ins and dismissed classes.
 ---
 An app that notifies the user about specific stand ins and dismissed classes.  
 (It is made in German, because I live in Germany)

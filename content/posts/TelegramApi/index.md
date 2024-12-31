@@ -2,7 +2,8 @@
 title: "Telegram Api"
 image: telegram.svg
 date: 2021-03-25T09:43:29+01:00
-draft: false
+tags: ["API"]
+description: Controlling a Raspberry Pi with the Telegram Bot Api.
 ---
 
 I wanted to be able to send messages from my phone to the Raspberry Pi. The easiest way would be to do this via some kind of app, maybe a messenger. That was when I discovered the Telegram Bot api. I also considered using WhatsApp or Threema but I didn't want my phone number to get blocked accidentally on WhatsApp if I messed something up and the Threema api seemed way to complicated because of all the encryption that has to happen.

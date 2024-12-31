@@ -4,6 +4,8 @@ date: 2022-01-26T00:00:00Z
 draft: false
 author: "Dennis"
 image: Printer.jpg
+description: A 2D printer built from metal rods, plywood, and an Arduino Uno.
+tags: ["Hardware"]
 ---
 
 This time I managed to build a fully functional 2D-Pen-Plotter. Some would call it printer. The plotter is 50 cm^2 big and covers a printable area of 250 mm \* 250 mm.

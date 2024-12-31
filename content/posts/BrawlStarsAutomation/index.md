@@ -3,6 +3,8 @@ title: "Automated screenshots for BrawlStars"
 date: 2021-08-07
 author: "Dennis"
 image: Robot.png
+description: A bot that automatically makes screenshots of the brawl stars competition winner’s map every day.
+tags: ["Hardware", "Script"]
 ---
 
 # Automated screenshots for BrawlStars

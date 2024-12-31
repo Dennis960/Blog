@@ -2,7 +2,7 @@
 title: "QR Code - How to decode a QR Code"
 date: 2021-03-02T18:03:26+01:00
 image: Entire.svg
-draft: false
+description: This time I learnt how to decode a QR-Code.
 ---
 ### This time I learnt how to decode a QR-Code
 

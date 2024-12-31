@@ -1,9 +1,10 @@
 ---
 title: "Puzzle Piece Finder"
 date: 2022-01-04T00:00:00Z
-draft: false
 author: "Dennis"
 image: FindingLargestRectangle/BInnerRectangle.png
+tags: ["Script"]
+description: A python script that finds the correct spot for a puzzle piece after taking a picture of it.
 ---
 
 There was this puzzle that had belonged to me for over a year now.

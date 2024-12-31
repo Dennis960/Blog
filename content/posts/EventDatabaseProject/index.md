@@ -2,7 +2,8 @@
 title: "Event Database Project"
 date: 2020-10-16T12:41:17+01:00
 image: Tomcat-logo.svg
-draft: false
+tags: ["Web App"]
+descrption: A simple event database project to capture events from my app users.
 ---
 
 I wanted to capture events from my app users but I just didn't know what tool to use for doing that. I tried Google Analytics and Flurry Analytics which are both great tools but they are way too overkill for what I wanted to accomplish. I needed a simple tool that would capture an event with only a few parameters. The time it got sent, a title, a description and a user Id.  

@@ -2,7 +2,8 @@
 title: "LED with Telegram"
 date: 2021-03-25T09:33:41+01:00
 image: Thumbnail.jpg
-draft: false
+tags: ["Hardware", "API"]
+description: Controlling LED stripes with a Raspberry Pi and Telegram.
 ---
 
 This project is based on the Telegram Bot Api project:

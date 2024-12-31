@@ -4,6 +4,8 @@ date: 2021-05-13
 author: "Dennis"
 categories: ["Corona"]
 image: CoronaInzidenzThumbnail.jpg
+tags: ["Web App", "API"]
+description: Scraping Corona Inzidenz data from the RKI website to display it on my own website.
 ---
 
 # Corona Inzidenz

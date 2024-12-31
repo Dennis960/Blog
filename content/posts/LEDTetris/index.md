@@ -3,6 +3,8 @@ title: "LED Tetris"
 date: 2021-07-21
 author: "Dennis"
 image: TetrisThumbnail.jpg
+tags: ["Hardware"]
+description: Building a Tetris game with an LED-strip and an Arduino Uno.
 ---
 
 # LED Tetris

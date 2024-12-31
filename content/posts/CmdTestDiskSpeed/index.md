@@ -2,7 +2,7 @@
 title: "Cmd test disk speed on Windows"
 date: 2021-02-24T11:08:26+01:00
 image: Hard-Drive.jpg
-draft: false
+description: Tutorial on how to test the disk speed on Windows using cmd commands.
 ---
 
 Today I learned how to test the disk speed on Windows using cmd commands. It is the easiest process as it is just a single command but I needed to look it up twice already.
