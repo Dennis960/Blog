@@ -1,2 +1,2 @@
 hugo
-rsync -av ./public/ Dennis960:~/public/Blog
+rsync -av --delete ./public/ Dennis960:~/public/Blog
